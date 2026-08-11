@@ -1,1 +1,46 @@
+[
+  {
+    "iconUrl": "https://i.ibb.co.com/vCtZLCQf/LAYAR21.png",
+    "fileHash": "sha256-475603bcc47b4aa0978fb3c390476feec25b5726eebe9c8b939e5e1ba71fad3f",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/noritoshikamou/Inferno",
+    "fileSize": 13548,
+    "status": 1,
+    "language": "id",
+    "authors": [
+        "Dzikri"
+    ],
+    "tvTypes": [
+        "AsianDrama",
+        "TvSeries",
+        "Movie",
+        "Anime"
+    ],
+    "version": 1,
+    "internalName": "LayarKaca21",
+    "description": "🎥 Movies & TV Series",
+    "url": "https://raw.githubusercontent.com/noritoshikamou/Inferno/builds/LayarKaca21.cs3",
+    "name": "LayarKaca21"
+  },
+  {
+    "iconUrl": "https://i.ibb.co.com/3yVG0DbY/ngefilm.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/noritoshikamou/SCloud",
+    "fileSize": 21909,
+    "status": 1,
+    "language": "id",
+    "authors": [
+      "Asm0d3usX"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Ngefilm",
+    "description": "🎥 Movies & TV Series",
+    "url": "https://raw.githubusercontent.com/noritoshikamou/SCloud/builds/Ngefilm.cs3",
+    "name": "Ngefilm"
+  }
+]
 
